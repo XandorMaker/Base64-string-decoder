@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Base64 string decoder/1.0.0": {
+        "runtime": {
+          "Base64 string decoder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Base64 string decoder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

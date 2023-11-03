@@ -1,0 +1,15 @@
+C:\Users\xando\source\repos\Base64 string decoder\Base64 string decoder\bin\Debug\net6.0\Base64 string decoder.exe
+C:\Users\xando\source\repos\Base64 string decoder\Base64 string decoder\bin\Debug\net6.0\Base64 string decoder.deps.json
+C:\Users\xando\source\repos\Base64 string decoder\Base64 string decoder\bin\Debug\net6.0\Base64 string decoder.runtimeconfig.json
+C:\Users\xando\source\repos\Base64 string decoder\Base64 string decoder\bin\Debug\net6.0\Base64 string decoder.dll
+C:\Users\xando\source\repos\Base64 string decoder\Base64 string decoder\bin\Debug\net6.0\Base64 string decoder.pdb
+C:\Users\xando\source\repos\Base64 string decoder\Base64 string decoder\obj\Debug\net6.0\Base64 string decoder.csproj.AssemblyReference.cache
+C:\Users\xando\source\repos\Base64 string decoder\Base64 string decoder\obj\Debug\net6.0\Base64 string decoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xando\source\repos\Base64 string decoder\Base64 string decoder\obj\Debug\net6.0\Base64 string decoder.AssemblyInfoInputs.cache
+C:\Users\xando\source\repos\Base64 string decoder\Base64 string decoder\obj\Debug\net6.0\Base64 string decoder.AssemblyInfo.cs
+C:\Users\xando\source\repos\Base64 string decoder\Base64 string decoder\obj\Debug\net6.0\Base64 string decoder.csproj.CoreCompileInputs.cache
+C:\Users\xando\source\repos\Base64 string decoder\Base64 string decoder\obj\Debug\net6.0\Base64 string decoder.dll
+C:\Users\xando\source\repos\Base64 string decoder\Base64 string decoder\obj\Debug\net6.0\refint\Base64 string decoder.dll
+C:\Users\xando\source\repos\Base64 string decoder\Base64 string decoder\obj\Debug\net6.0\Base64 string decoder.pdb
+C:\Users\xando\source\repos\Base64 string decoder\Base64 string decoder\obj\Debug\net6.0\Base64 string decoder.genruntimeconfig.cache
+C:\Users\xando\source\repos\Base64 string decoder\Base64 string decoder\obj\Debug\net6.0\ref\Base64 string decoder.dll

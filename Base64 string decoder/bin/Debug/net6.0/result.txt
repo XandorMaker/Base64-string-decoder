@@ -1,0 +1,241 @@
+##BIOS MFG0 Check
+BIOS MFG0Enable=false
+BreakBeforeTestBIOS MFG0=true
+BIOS MFG0Params=true
+BIOS MFG0ParamsValue=
+##BIOS Ver Check
+BIOSCheck=true
+##Smart Audio Check
+SmartAudioTest=false
+##Internal Speaker Check
+AudioInerSpeakerandMic=true
+BreakBeforeTestInteSpeakerMic=false
+RecognizeInternalDevice=false
+InternalTestOutTime=120
+##BIOS UUID Check
+BIOSUUIDCheck=true
+##BIOS S/N Check
+BIOSSNCheck=true
+##External Speaker Check
+ManualAudioExtr=true
+BreakBeforeTestExte=false
+RecognizeExternalDevice=true
+ExternalTestOutTime=120
+##Volume Check
+VolumeEnable=false
+VolumeTestOutTime=10
+##DIMM Slot Check
+DIMMSlotEnable=false
+DIMMSlotCount=0
+##Woofer Check
+WooferEnable=false
+WooferTestTimes=4
+##Webcam Check
+WebcamTest=true
+Webcam2Enable=false
+##LCD Pattern Check
+DiplayDeadPix=true
+BreakBeforeTestLcd=true
+##UPS Battery Check
+UpsBatteryEnable=false
+UpsBatteryTestOutTime=10
+##AC Plug Check
+BatteryStateEnable=true
+TimeoutBattery=10
+BreakBeforeTestBattery=true
+##Battery Cap Check
+BatteryCapacityEnable=true
+##LED Check
+LedTestEnable=true
+LEDPower=true
+LEDBattery=true
+LEDHDD=false
+LEDWifi=false
+LEDCaps=true
+LEDNum=false
+LEDKb=true
+##AuraLED Check
+AuraLedEnable=false
+AuraLedLogo=true
+AuraLedLightBar=true
+AuraLedKB=true
+AuraLedType=Strix2020
+AuraLedKBType=PerRegionKB
+##ODD Eject Check
+EjectEnable=false
+BreakBeforeTestOddEject=true
+##ODD Read Check
+ReadTest=false
+BreakBeforeTestOddRead=true
+##MTGesture Check
+MTGestureTestEnable=false
+##MTLinearity Check
+MTLinearTestEnable=false
+##MTTouch Auto Check
+MTMultiAutoTestEnable=false
+MTMax=10
+##Stylus Check
+StylusEnable=false
+BreakBeforeTestStylus=true
+StylusParams=true
+StylusParamsValue=
+##MTTouch Check
+MTMultiTouchTestEnable=false
+##Compass Check
+CompassTestEnabled=false
+##LID Check
+LIDTestEnable=true
+##Gyrometer Check
+GyrometerTestEnabled=false
+##Gravity Check
+AcceleratorTestEnabled=false
+##GPS Check
+GPSTestEnable=false
+##Light Sensor Check
+LightSensorTestEnabled=false
+ALSDMIN=0
+ALSDMAX=30
+ALSBMIN=100
+ALSBMAX=65535
+##Flip Sensor Check
+FlipSensorEnable=false
+FlipSensorTestOutTime=30
+BreakBeforeFlipSensor=true
+##FingerPrint Check
+FingerPrintEnable=true
+FingerPrintTimeout=15
+BreakBeforeTestFingerPrint=true
+FingerPrintType=Focal
+##Win Button Check
+Win8BtnTestEnable=false
+##Keyboard Check
+KeyBoardEnable=true
+BreakBeforeTestKeyboard=true
+##HotKey Check
+HotKeyEnable=false
+HotKeyTimeout=15
+BreakBeforeTestHotKey=true
+HotKeyType=Strix2020
+##Touchpad Check
+TouchpadButton=true
+BreakBeforeTestTouchpad=true
+TouchPadExtern=false
+##TouchpadKey Check
+TouchPadKeyEnable=false
+TouchPadKeyTimeout=20
+BreakBeforeTestTouchPadKey=true
+##USB Device Check
+FlashModuleEnable=true
+USBPortCount=1
+##Display Out Port Check
+DisplayOutTestEnable=true
+PortHDMI=true
+PortVGA=false
+PortThunderbolt=true
+PortDVI=false
+PortDP=false
+PortSVideo=false
+PortHDMINum=0
+PortVGANum=0
+PortThunderboltNum=0
+PortDVINum=0
+PortDPNum=0
+PortSVideoNum=0
+##COM Check
+COMTestEnable=false
+COMCount=2
+COMTimeout=80
+COMAIotCMD=false
+COMCmdType=
+##PD Firmware Check
+PDFirmwareTestEnable=true
+PDPort1=
+PDPort2=
+PDPort3=
+PDPort4=
+PDPort5=
+PDPort6=
+PDPort7=
+PDPort8=
+##DIO Port Check
+DIOPortTestEnable=false
+##PD Port Charge Check
+PDPortChargeEnable=false
+TimeoutPDPortCharge=10
+PDPortChargeCount=3
+EnoughWattPDPortCharge=false
+BreakBeforeTestPDPortCharge=true
+##CashDrawer Check
+CashDrawerEnable=false
+BreakBeforeTestCashDrawer=true
+CashDrawerParams=true
+CashDrawerParamsValue=
+##ScreenPad Check
+ScreenPadTestEnable=false
+ScreenPadTimeout=25
+##Wifi Check
+WifiPing=true
+##Rssi Check
+RssiTestEnable=true
+##LAN Check
+LANPing=false
+IsDoubleLan=false
+LANCount=0
+##BIOS S/N Check
+XGMobileSNCheck=false
+##AC Plug Check
+XGMobileBatteryStateEnable=false
+TimeoutXGMobileBattery=10
+BreakBeforeTestXGMobileBattery=true
+##USB Device Check
+XGMobileFlashModuleEnable=false
+##Display Out Port Check
+XGMobileDisplayOutTestEnable=false
+XGMobilePortHDMI=false
+XGMobilePortVGA=false
+XGMobilePortThunderbolt=false
+XGMobilePortDVI=false
+XGMobilePortDP=false
+XGMobilePortSVideo=false
+##LAN Check
+XGMobileLANPing=false
+##LCD Resolution Check
+ResolutionColorDep=false
+ScreenWidth=800
+ScreenHeight=480
+##NFC Check
+NfcTestEnable=false
+NfcName=
+##Memory Check
+MemCheck=true
+##Bluetooth Check
+BluetoothCheck=true
+##CPU Check
+CPUFreCheck=true
+##EMMC Health Check
+EMMCHEALTHYTestEnable=false
+##Optane Mem Check
+OPTANETestEnable=false
+##HDD Cap Check
+HDDCheck=true
+##CPU Fan Check
+FanTestEnable=true
+CpuFanMaxSection=300
+CpuFanMinSection=-300
+##Net Mobile Check
+NetMobileTestEnable=false
+##Video Card Check
+VGAInfoCheckEnable=true
+##GPU Fan Check
+GPUFanTestEnable=false
+##GPU Check
+GPUTestEnabled=false
+ExternalGPUEnable=false
+##TPM Check
+TPMTestEnable=false
+##Video Card Check
+XGMobileVGAInfoCheckEnable=false
+##1394 Check
+1394TestEnabled=false
+1394Enable=true
+1394Disable=true
