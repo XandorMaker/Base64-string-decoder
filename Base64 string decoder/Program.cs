@@ -7,7 +7,14 @@ class Program
     static void Main()
     {
         string inputFile = "Target.conf"; // Replace with the path to your input file
-        string outputFile = "result.txt"; // Replace with the desired output file
+        string outputFile = "result.txt"; // Initial output file name
+        int fileIndex = 2;
+
+        while (File.Exists(outputFile))
+        {
+            outputFile = $"result{fileIndex}.txt";
+            fileIndex++;
+        }
 
         try
         {
@@ -24,7 +31,7 @@ class Program
                 }
             }
 
-            Console.WriteLine("Decoded strings saved to " + outputFile);
+            Console.WriteLine($"Decoded strings saved to {outputFile}");
         }
         catch (Exception e)
         {
